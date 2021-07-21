@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/sofia/CLionProjects/untitled1/estruturas.c
+string.h
+-
+stdlib.h
+-
+stdbool.h
+-
+header.h
+/cygdrive/c/Users/sofia/CLionProjects/untitled1/header.h
+
+/cygdrive/c/Users/sofia/CLionProjects/untitled1/header.h
+
