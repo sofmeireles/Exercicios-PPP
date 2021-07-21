@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/sofia/CLionProjects/fase2/auxiliares.c
+header.h
+/cygdrive/c/Users/sofia/CLionProjects/fase2/header.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+stdbool.h
+-
+ctype.h
+-
+
+/cygdrive/c/Users/sofia/CLionProjects/fase2/header.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+stdbool.h
+-
+

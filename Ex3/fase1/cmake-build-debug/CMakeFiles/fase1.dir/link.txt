@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/fase1.dir/main.c.o CMakeFiles/fase1.dir/auxiliares.c.o  -o fase1.exe -Wl,--out-implib,libfase1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
